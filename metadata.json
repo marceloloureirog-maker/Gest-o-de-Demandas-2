@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Demandas",
+  "description": "Aplicativo para gerenciamento e consolidação de demandas de obras e logística por unidade com registro fotográfico e relatórios em PDF.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
